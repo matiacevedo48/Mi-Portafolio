@@ -29,20 +29,20 @@ p {
 
 .hero-section h1 {
   padding-top: 480px;
-  font-family: 'Oswald';
+  font-family: 'Oswald', sans-serif;
   font-weight: 200;
   font-size: 65pt;
 }
 
 .hero-section h2 {
   padding-top: 20px;
-  font-family: 'Oswald';
+  font-family: 'Oswald', sans-serif;
   font-weight: 700;
   font-size: 70pt;
 }
 
  .titulo {
-  font-family: 'Oswald';
+  font-family: 'Oswald', sans-serif;
   font-weight: 700;
   font-size: 30pt;
  }
@@ -51,4 +51,10 @@ p {
    background-color: #000000;
    height: 1px;
    width: 130px;
+ }
+
+ #experience h2 {
+   font-family: 'Oswald', sans-serif;
+   font-weight: 700;
+   font-size: 40pt
  }
