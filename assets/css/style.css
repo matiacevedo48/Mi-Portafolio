@@ -53,8 +53,24 @@ p {
    width: 130px;
  }
 
+ .linea2 {
+   background-color: #ffffff;
+   height: 1px;
+   width: 130px;
+ }
+
  #experience h2 {
    font-family: 'Oswald', sans-serif;
    font-weight: 700;
    font-size: 40pt
+ }
+
+ #work {
+   background-color: #002447;
+ }
+
+ #work h2 {
+   font-family: 'Oswald', sans-serif;
+   font-weight: 700;
+   font-size: 40pt;
  }
