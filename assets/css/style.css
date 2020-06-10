@@ -1,0 +1,37 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+  background-color: #002447;
+  height: 50pt;
+}
+
+hr {
+  background-color: #ffffff;
+  height: 1px;
+  width: 320px;
+}
+
+.hero-section {
+  text-align: center;
+  background-image: url('../img/myphoto.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+  height: 600pt;
+}
+
+.hero-section h1 {
+  padding-top: 400px;
+  font-family: 'Oswald';
+  font-weight: 200;
+  font-size: 65pt;
+}
+
+.hero-section h2 {
+  padding-top: 20px;
+  font-family: 'Oswald';
+  font-weight: 700;
+  font-size: 70pt;
+}
